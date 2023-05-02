@@ -37,7 +37,7 @@
       </body>
     </body>
     <!-- Target -->
-    <geom name="target" pos="0 0 .01" material="target" type="sphere" size=".05"/>
+    <geom name="target" pos="0 0 .01" material="target-clear" type="sphere" size=".05"/>
   </worldbody>
 
   <actuator>
